@@ -14,7 +14,7 @@
     "count-min-sketch": "^0.1.1",
     "debug": "~2.6.9",
     "dotenv": "^8.0.0",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "mongoose": "^5.6.9",
